@@ -19,4 +19,4 @@
 
 > ## Vídeo Explicativo
 >
-[Abrir em outra guia](https://www.youtube.com/watch?v=jAYAinOWudQ){:target="_blank"}
+[Vídeo RabbitMQ](https://www.youtube.com/watch?v=jAYAinOWudQ){target="_blank"}
