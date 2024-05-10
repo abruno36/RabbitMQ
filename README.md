@@ -9,7 +9,7 @@
 ---
 **Protótipo:** 
 
-<img src="https://github.com/abruno36/GoFinances/blob/master/prototipo.png" alt="Protótipo"/>
+<img src="https://github.com/abruno36/RabbitMQ/blob/master/AppOrderWorker/rabbitMQ_envio.png" alt="Protótipo"/>
 
 > **Tecnologias:** REACT-NATIVE
 >
