@@ -18,4 +18,5 @@
 
 
 > ## Vídeo Explicativo
-https://www.youtube.com/watch?v=jAYAinOWudQ
+>
+(https://www.youtube.com/watch?v=jAYAinOWudQ){:target="_blank"}
