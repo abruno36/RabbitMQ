@@ -19,4 +19,4 @@
 
 > ## Vídeo Explicativo
 >
-(https://www.youtube.com/watch?v=jAYAinOWudQ){:target="_blank"}
+[Abrir em outra guia](https://www.youtube.com/watch?v=jAYAinOWudQ){:target="_blank"}
