@@ -11,6 +11,7 @@
 
 <img src="https://github.com/abruno36/RabbitMQ/blob/master/AppOrderWorker/rabbitMQ_envio.png" alt="Protótipo"/>
 
-> **CONSUMO MENSAGEM:** 
+---
+**CONSUMO MENSAGEM:** 
 
-<img src="https://github.com/abruno36/RabbitMQ/blob/master/AppOrderWorker/rabbitMQ_envio.png" alt="Protótipo"/>
+<img src="https://github.com/abruno36/RabbitMQ/blob/master/WebAppOrder/rabbitMQ_consumo.png" alt="Protótipo"/>
