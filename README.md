@@ -20,4 +20,4 @@
 > ## Vídeo Explicativo
 >
 >
-[{** Vídeo RabbitMQ ** }](https://www.youtube.com/watch?v=jAYAinOWudQ)
+[** Vídeo RabbitMQ **](https://www.youtube.com/watch?v=jAYAinOWudQ)
