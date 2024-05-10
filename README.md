@@ -15,3 +15,7 @@
 **CONSUMO MENSAGEM:** 
 
 <img src="https://github.com/abruno36/RabbitMQ/blob/master/WebAppOrder/rabbitMQ_consumo.png" alt="Protótipo"/>
+
+
+> ## Vídeo Explicativo
+https://www.youtube.com/watch?v=jAYAinOWudQ
