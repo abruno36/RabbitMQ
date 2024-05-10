@@ -19,4 +19,5 @@
 
 > ## Vídeo Explicativo
 >
-[** Vídeo RabbitMQ ** ](https://www.youtube.com/watch?v=jAYAinOWudQ){target="_blank"}
+>
+[![]{** Vídeo RabbitMQ ** }](https://www.youtube.com/watch?v=jAYAinOWudQ){target="_blank"}
