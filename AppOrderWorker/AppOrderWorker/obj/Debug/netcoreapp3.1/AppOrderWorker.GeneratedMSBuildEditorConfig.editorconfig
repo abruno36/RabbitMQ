@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AppOrderWorker
+build_property.ProjectDir = C:\Projetos\RabbitMQ\AppOrderWorker\AppOrderWorker\

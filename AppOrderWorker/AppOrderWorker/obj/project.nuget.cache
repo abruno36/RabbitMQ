@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ztb6QXU1xrSKybQPiLzJH+bH05CpOzih9YcjGsylSXc9+sQDBTfLnx2K35KbfJbHU86bKiH8mSCmxPoLFreSg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\RabbitMQ\\AppOrderWorker\\AppOrderWorker\\AppOrderWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
